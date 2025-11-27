@@ -16,3 +16,11 @@
 - 🎮 Amante de los videojuegos, el gym y el trabajo en equipo  
 - 🧪 Explorando nuevas herramientas y compartiendo mi progreso en GitHub  
 <br>
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxmgarcia&show_icons=true&locale=en&layout=compact" alt="Maxmgarcia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxmgarcia&show_icons=true&locale=en" alt="Maxmgarcia" width="410" /></p>
+
+<hr>
